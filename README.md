@@ -1,21 +1,71 @@
-# Hi, I’m @abdelhak-abdelhakem
+<h1 align="center">Hi 👋, I'm Abdelhak</h1>
+<h3 align="center">4th-Year AI Engineering Student | Aspiring AI/NLP Engineer | Data Engineering Foundations | Faith-Driven Technologist</h3>
 
-👀 I’m interested in AI, Data Science, and Data Engineering.
+---
 
-🌱 I’m currently learning Data Engineering, focusing on building pipelines, managing databases, and working with big data technologies.
+### 👨‍🎓 About Me
 
-💞️ I’m looking to collaborate on open source projects related to AI and Data Engineering. I am particularly interested in projects that involve data processing, machine learning models, and data visualization.
+- 🎓 I'm a **4th-year Computer Engineering student** specializing in **Artificial Intelligence** in Algeria.
+- 💻 I have a strong foundation in **Data Engineering**, combined with my passion for **Natural Language Processing (NLP)**.
+- 💬 I enjoy building systems that help machines understand and work with human language.
+- 🧑‍🤝‍🧑 I serve as the **group delegate** of my AI class — I value leadership, collaboration, and continuous learning.
+- 🧩 Areas of interest:
+  - Data Engineering (ETL pipelines, Airflow, Snowflake, AWS)
+  - NLP (text classification, transformers, sentiment analysis)
+  - Deep Learning with TensorFlow/Keras
+  - Data visualization and storytelling
+  - Balancing technology, discipline, and personal values
 
-📫 How to reach me: 
-- Email: abdelhak.abdelhakem.0704@univ-sba.dz
-- LinkedIn: https://www.linkedin.com/in/abdelhakem-abdelhak-913b4b264/
+---
 
-⚧ Pronouns: he/him
+### 🛠️ Tech Stack
 
-🎯 Fun fact: I am passionate about solving complex data problems and dream of becoming a Data Engineer in the USA. I am also an Algerian student currently in my third year of studying engineering with a focus on AI and Data Science.
+- **Languages:** Python, SQL, HTML/CSS
+- **Data Engineering:** Airflow, Snowflake, AWS S3, PySpark, ETL pipelines
+- **ML & NLP:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, spaCy, Hugging Face (learning)
+- **Tools:** Jupyter, VSCode, Git/GitHub, Linux
+- **Currently Learning:** Deep Learning for NLP, Transformers, MLOps, DevOps basics
 
+---
 
-<!---
-abdelhak-abdelhakem/abdelhak-abdelhakem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 2025 Learning Path (Summer & Beyond)
+
+- ✅ Reviewed fundamentals of Data Engineering and Python libraries
+- 🔍 Improving visualization skills with Matplotlib & Seaborn
+- 🤖 Focusing on Classical ML and NLP projects with scikit-learn and Hugging Face
+- 🚀 Exploring Transformer models & TensorFlow
+- 📈 Practicing on Kaggle + mini-projects on text classification and emotion detection
+- 🧠 Final goal: Build a strong NLP portfolio project by the end of summer
+
+---
+
+### 📁 Selected Projects
+
+- 📊 **Titanic ML Classifier** – scikit-learn pipeline
+- 🏠 **House Price Prediction** – ETL pipeline using S3, Airflow, and Snowflake
+- 💬 **Arabic Sentiment Analyzer** – NLP project using NLTK/spaCy (in progress)
+- 🧠 **Transformer-based NLP App** – Advanced deep learning project (planned)
+- 📅 **AI Timetable Optimizer** – Python scheduling and logic for university
+
+🔗 See all my work [here](https://github.com/YOUR_USERNAME?tab=repositories)
+
+---
+
+### 📌 My Mission
+
+> To grow into a skilled **AI/NLP Engineer** with a solid background in **Data Engineering**, building ethical and impactful intelligent systems —  
+> all while staying true to my values of **faith, discipline, fitness, and lifelong learning**.
+
+---
+
+### 📬 Connect with Me
+
+- 📸 [Instagram (coming soon)](https://instagram.com)
+- 💼 [LinkedIn (soon)](https://linkedin.com)
+- 💌 Email: `abdelhakemabdelhak@gmail.com`
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
