@@ -18,7 +18,6 @@
 - 🎓 5th-year Computer Science Engineering student, **AI specialty** — Université Djillali Liabès, Sidi Bel Abbès 🇩🇿
 - 💼 6-month internship at **Groupe Hasnaoui** (Feb–Jun 2026), where I built a production multilingual RAG pipeline
 - 🔬 Member of **AiQC** (AI & Quantum Community) — studying **Mamba / State Space Models vs Transformers**, 🥈 2nd place at the AiQC Mini-Hackathon (Apr 2026)
-- 🎯 Currently looking for my **final-year internship (PFE) in Paris, starting February 2027** — focus: agentic LLMs & tool-use optimization
 - 🌍 Arabic (native) · English (B2) · French (B1 → B2)
 
 ---
