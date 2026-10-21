@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:abdelhakemabdelhak@gmail.com"><img src="https://img.shields.io/badge/Email-abdelhakemabdelhak%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://huggingface.co/abdelhak-abdelhakem"><img src="https://img.shields.io/badge/Hugging%20Face-abdelhak--abdelhakem-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-PFE%20internship%20·%20Paris%20·%20Feb%202027-2ea44f?style=flat" />
+  
 </p>
 
 ---
